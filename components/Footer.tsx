@@ -1,5 +1,5 @@
 import Link from 'next/link';
-import Mail from './icons/Mail';
+//import Mail from './icons/Mail';
 import GitHub from './icons/GitHub';
 import LinkedIn from './icons/LinkedIn';
 
