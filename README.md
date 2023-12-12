@@ -6,7 +6,7 @@
 
 ```bash
 # Clone this repository
-$ git clone git@github.com:muhammeddilaver/dilver.com.git
+$ gh repo clone muhammeddilaver/dilaver
 
 # Go into the repository
 $ cd dilaver
