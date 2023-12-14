@@ -2,6 +2,7 @@ import Link from 'next/link';
 //import Mail from './icons/Mail';
 import GitHub from './icons/GitHub';
 import LinkedIn from './icons/LinkedIn';
+import Instagram from './icons/Instagram';
 
 export default function Footer() {
   return (
@@ -28,6 +29,16 @@ export default function Footer() {
           >
             <span className="sr-only">linkedin</span>
             <LinkedIn className="fill-current text-zinc-600 hover:text-primary dark:text-zinc-400 dark:hover:text-primary h-6 w-6" />
+          </a>
+
+          <a
+            className="text-sm text-zinc-500 transition hover:text-zinc-600"
+            target="_blank"
+            rel="noopener noreferrer"
+            href="https://www.instagram.com/mdilaver_"
+          >
+            <span className="sr-only">instagram</span>
+            <Instagram className="fill-current text-zinc-600 hover:text-primary dark:text-zinc-400 dark:hover:text-primary h-6 w-6" />
           </a>
         </div>
 
