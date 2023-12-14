@@ -38,7 +38,7 @@ export default function Footer() {
             href="https://www.instagram.com/mdilaver_"
           >
             <span className="sr-only">instagram</span>
-            <Instagram className="fill-current text-zinc-600 hover:text-primary dark:text-zinc-400 dark:hover:text-primary h-6 w-6" />
+            <Instagram className="fill text-zinc-600 hover:text-primary dark:text-zinc-400 dark:hover:text-primary h-6 w-6" />
           </a>
         </div>
 
