@@ -20,26 +20,29 @@ const Home: NextPage = () => {
 
           <div className="space-y-4">
             <h2 className="text-center font-bold text-3xl sm:text-4xl text-primary">
-              Hello, I&apos;m
+                            Hello, I&apos;m
             </h2>
 
             <h1 className="font-bold text-5xl sm:text-6xl text-center pb-2">
-              <span className="block mb-4 sm:inline sm:mb-0">Muhammed</span>{' '}
-              Dilaver
+              <span className="block mb-4 sm:inline sm:mb-0">
+                                Muhammed
+              </span>{' '}
+                            Dilaver
             </h1>
           </div>
 
           <div className="">
             <p className="text-center text-base sm:text-lg">
-              I&apos;m a full-stack software developer from Toronto. I primarily use
-              Node.js, React.js, React Native and TypeScript to bring ideas into reality.
+                            I&apos;m a full-stack software developer from
+                            Toronto. I primarily use Node.js, React.js, React
+                            Native and TypeScript to bring ideas into reality.
             </p>
           </div>
 
           <div className="pt-6 sm:pt-10">
             <Link href="/about">
               <a className="w-56 h-14 bg-primary rounded-lg flex items-center justify-center text-white text-base font-semibold transition hover:scale-105  duration-300">
-                More About Me
+                                More About Me
                 <svg
                   xmlns="http://www.w3.org/2000/svg"
                   fill="none"

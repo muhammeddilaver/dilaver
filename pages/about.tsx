@@ -7,7 +7,7 @@ const About: NextPage = () => {
       <div className="flex flex-col justify-center items-start max-w-2xl mx-auto mb-16 w-full">
         <div className="space-y-2 pt-6 pb-8 md:space-y-5 border-b-zinc-200 dark:border-b-zinc-700 border-b w-full">
           <h1 className="text-3xl font-bold leading-9 tracking-tight text-font-dark dark:text-font-light sm:text-4xl sm:leading-10 md:text-5xl md:leading-14">
-            About Me
+                        About Me
           </h1>
         </div>
 
@@ -15,7 +15,16 @@ const About: NextPage = () => {
           <p className="lead">Hey, I&apos;m Muhammed Dilaver.</p>
 
           <p>
-            I will write here.
+                        Experienced Full Stack Developer with 10 years of
+                        expertise about JavaScript, Node.js, React, and React
+                        Native sculpting the digital landscape. Thriving in
+                        dynamic, collaborative environments, I leverage my
+                        extensive experience to deliver high-impact solutions.
+                        As a perpetual learner, I am dedicated, passionate, and
+                        adaptable. With robust problem-solving skills and
+                        effective communication, I am a results-driven team
+                        player. Let’s innovate and elevate the digital realm
+                        together.
           </p>
 
           <h2>Technical Knowledge</h2>
