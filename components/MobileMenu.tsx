@@ -79,10 +79,21 @@ export default function MobileMenu() {
               </a>
             </Link>
           </li>
+          {/* <li
+            className="text-font-dark dark:text-font-light text-lg font-semibold"
+            style={{ transitionDelay: '250ms' }}
+          >
+            <Link href="/blog">
+              <a className="flex w-auto pb-4 hover:text-primary max-w-min">
+                Blog
+              </a>
+            </Link>
+          </li> */}
           <li
             className="text-font-dark dark:text-font-light text-lg font-semibold"
             style={{ transitionDelay: '250ms' }}
           >
+
             <Link href="/resume">
               <a
                 className="flex w-auto pb-4 hover:text-primary max-w-min"

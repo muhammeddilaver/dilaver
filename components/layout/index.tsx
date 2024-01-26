@@ -110,6 +110,7 @@ export default function Layout(props: LayoutProps) {
             <NavItem href="/" text="Home" />
             <NavItem href="/about" text="About" />
             <NavItem href="/projects" text="Projects" />
+            {/* <NavItem href="/blog" text="Blog" /> */}
             {/* Resume Link */}
             <a
               className="font-normal text-zinc-600 dark:text-zinc-400 hidden md:inline-block p-1 sm:px-3 sm:py-2 rounded-lg hover:bg-zinc-200 hover:text-zinc-800 dark:hover:bg-zinc-800 transition-all cursor-pointer"
